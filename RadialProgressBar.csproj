@@ -57,7 +57,7 @@
     <Compile Include="RadialProgressBar.xaml.cs">
       <DependentUpon>RadialProgressBar.xaml</DependentUpon>
     </Compile>
-    <Page Include="MainWindow.xaml">
+    <Page Include="TestWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
@@ -66,8 +66,8 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="CenterConverter.cs" />
-    <Compile Include="MainWindow.xaml.cs">
-      <DependentUpon>MainWindow.xaml</DependentUpon>
+    <Compile Include="TestWindow.xaml.cs">
+      <DependentUpon>TestWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
     <Page Include="RadialProgressBar.xaml">

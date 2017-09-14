@@ -1,6 +1,6 @@
 ﻿using System.Windows.Controls;
 
-namespace RadialProgressBar
+namespace jammer77
 {
 
     public partial class RadialProgressBar : UserControl
