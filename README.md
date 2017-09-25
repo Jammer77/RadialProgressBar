@@ -1,1 +1,1 @@
-"# RadialProgressBar" 
+"RadialProgressBar WPF control" 
